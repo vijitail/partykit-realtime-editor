@@ -1,0 +1,28 @@
+{
+  "name": "partykit-realtime-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel app/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@monaco-editor/react": "^4.5.1",
+    "monaco-editor": "^0.41.0",
+    "partykit": "^0.0.0-278833e",
+    "partysocket": "^0.0.0-278833e",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "@types/react-dom": "^18.2.7",
+    "@types/uuid": "^9.0.2",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
